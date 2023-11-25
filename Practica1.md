@@ -27,7 +27,7 @@ A continuación se muestra un ejemplo de lista ordenada:
 A continuación se muestra una imágen insertada. La imágen está disponible en la URL en las claves de la resolución del caso práctico.
 ![Open Source Initiativo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Open_Source_Initiative.svg/339px-Open_Source_Initiative.svg.png)
 ## Enlaces
-Esto es un [enlace a Google](https://www.google.es/){:style="text-decoration: none"}.
+Esto es un [enlace a Google](https://www.google.es/).
 ## Un pequeño consejo en forma de cita para finalizar...
 > No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo.
 > --Ley de Mosher de la Ingenería del Software
